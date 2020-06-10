@@ -10,6 +10,13 @@
 # Java class files
 *.class
 
+.idea
+gradle.properties
+/gradler
+gradlew
+gradlew.bat
+.gradle
+settings.gradle
 # Generated files
 bin/
 gen/
